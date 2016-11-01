@@ -38,6 +38,7 @@ and so on.
 
 ## See also
 
+* [cooper](https://github.com/rxseger/cooper) for sending UDP packets on GPIO input change from an ESP8266
 * [homebridge-contactsensor](https://github.com/rxseger/homebridge-contactsensor)
 * [homebridge-gpio-cmd](https://github.com/rxseger/homebridge-gpio-cmd) etc. for GPIO outputs
 * [homebridge-pwm-fan](https://github.com/rxseger/homebridge-pwm-fan)
