@@ -1,6 +1,6 @@
 {
   "name": "homebridge-udp-contactsensor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UDP server contact sensor plugin for Homebridge",
   "main": "udp-contact.js",
   "scripts": {
